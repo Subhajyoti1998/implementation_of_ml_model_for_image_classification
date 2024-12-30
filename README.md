@@ -28,7 +28,7 @@ Follow these steps to set up and run the project locally:
 
 Clone the Repository:
 
-git clone https://github.com/your-repo/image-classification-dashboard.git
+git clone https://github.com/Subhajyoti1998/implementation_of_ml_model_for_image_classification.git
 cd implementation_of_ml_model_for_image_classification-main
 
 ## Install Dependencies:
